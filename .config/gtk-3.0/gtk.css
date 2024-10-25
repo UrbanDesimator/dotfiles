@@ -1,0 +1,132 @@
+/* __ __
+  / // /____ ____  ____   ___  ____  ____  ____  _
+  \ . \/ __// ___// -__/ / _ //__  // _  // -__// /_
+ /_//_/ __//____//____/ / __//__-_//_//_//____//___/
+*/
+
+/*
+~/config/gtk-3.0/gtk.css
+custom setting for xfce panel and buttons inc, action, clock, notif, systray, window switcher, tasklist, appmenu
+*/
+
+/*
+.xfce4-panel { #kept for rounded corners at ends
+
+border-bottom-left-radius: 13px;
+
+border-bottom-right-radius: 13px;
+
+border-top-left-radius: 13px;
+
+border-top-right-radius: 13px;
+}
+*/
+
+/*
+ Style for buttons within panel
+*/
+.xfce4-panel button,
+.xfce4-panel .flat,
+.xfce4-panel .toggle {
+    background-color: transparent;
+    /*border: 1px solid rgba(97, 175, 239, 0.8);
+    border-radius: 5px;
+    padding: 4px; */
+    color: #66ff00;
+    transition: all 0.3s ease;
+}
+
+.xfce4-panel button:hover,
+.xfce4-panel .flat:hover,
+.xfce4-panel .toggle:hover {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+.xfce4-panel button:active,
+.xfce4-panel .flat:active,
+.xfce4-panel .toggle:active {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+.xfce4-panel button:checked,
+.xfce4-panel .flat:checked,
+.xfce4-panel .toggle:checked {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+/*
+ Task List bottom indicator
+*/
+.xfce4-panel.background .tasklist button {
+    background-color: transparent;
+    color: shade(#fff, 0.8);
+}
+
+.xfce4-panel.background .tasklist button:active, .xfce4-panel.background .tasklist button:checked {
+color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bottom-width: 3px;
+}
+
+/*
+ * Aplication menu font color
+*/
+#applicationmenu-button {
+	/*padding: 0 10px;
+    font-family: 'System-ui';
+    font-size: 14px; */
+    background-color: transparent;
+    color: #66ff00;
+}
+
+  wnck-pager:selected {
+    background-color: transparent; }
+  wnck-pager:hover {
+    background-color: transparent; }
+
+.xfce4-panel widget grid button.flat.toggle:hover {
+    font-family: 'Sans Bold';
+    font-size: 16px;
+  }
+.xfce4-panel widget grid button.flat.toggle:checked {
+    background-color: transparent;
+    font-family: 'Sans Bold';
+    font-size: 16px;
+    border-bottom: 3px solid #66ff00;
+    padding: 10px;
+}
+
+/*
+  New Notification Plugin
+*/
+#xfce4-notification-plugin {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+#xfce4-notification-plugin:checked {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+#xfce4-notification-plugin:hover {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+#clock-button {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+#clock-button:checked {
+    background-color: transparent;
+    color: #66ff00;
+}
+
+#clock-button:hover {
+    background-color: transparent;
+    color: #66ff00;
+}
+
