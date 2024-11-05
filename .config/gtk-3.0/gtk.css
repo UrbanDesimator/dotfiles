@@ -22,6 +22,10 @@ border-top-right-radius: 13px;
 }
 */
 
+.xfce4-panel {
+	border: none;
+}
+
 /*
  Style for buttons within panel
 */
@@ -80,6 +84,11 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
     color: #66ff00;
 }
 
+* {
+	-ThunarAbstractIconView-row-spacing: 10px;
+	-ThunarAbstractIconView-column-spacing: 10px;
+}
+
   wnck-pager:selected {
     background-color: transparent; }
   wnck-pager:hover {
@@ -113,6 +122,26 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
 #xfce4-notification-plugin:hover {
     background-color: transparent;
     color: #66ff00;
+}
+
+#XfceNotifyWindow {
+	border: 0px;
+	/* Let picom decide the border radius */
+	border-radius: 0px;
+
+}
+#XfceNotifyWindow progressbar {
+	border-radius: 6px;
+}
+#XfceNotifyWindow progressbar progress,
+#XfceNotifyWindow progressbar trough {
+	min-height: 4px;
+}
+#XfceNotifyWindow image {
+	-gtk-icon-transform: scale(0.5);
+	background-color: #2a2c37;
+	box-shadow: inset 0px 0px 2px #323340;
+	border-radius: 6px;
 }
 
 #clock-button {
