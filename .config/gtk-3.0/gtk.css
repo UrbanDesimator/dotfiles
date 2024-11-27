@@ -26,6 +26,12 @@ border-top-right-radius: 13px;
 	border: none;
 }
 
+/* default headerbar size */
+headerbar { min-height: 32px; font-size: 11pt;}
+/* remove titlebar icon */
+.csd .titlebar>image {-gtk-icon-transform: scale(0); }
+
+
 /*
  Style for buttons within panel
 */
@@ -80,6 +86,7 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
 	/*padding: 0 10px;
     font-family: 'System-ui';
     font-size: 14px; */
+    font-weight: bold;
     background-color: transparent;
     color: #66ff00;
 }
