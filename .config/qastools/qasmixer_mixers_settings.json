@@ -6,12 +6,12 @@
         ],
         "sliders": {
             "blacklist": [
+                "Mic_1_0",
+                "IEC958_1_0",
                 "IEC958_0_0",
                 "Master_1_0",
-                "Line_1_0",
                 "PCM_1_0",
-                "Mic_1_0",
-                "IEC958_1_0"
+                "Line_1_0"
             ]
         },
         "sort_stream_dir": false,
@@ -27,8 +27,8 @@
         ],
         "sort_stream_dir": false,
         "splitter_sizes": [
-            510,
-            51
+            496,
+            61
         ]
     }
 }
