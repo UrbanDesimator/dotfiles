@@ -22,14 +22,16 @@ border-top-right-radius: 13px;
 }
 */
 
+/* 
 .xfce4-panel {
 	border: none;
 }
+/
 
-/* default headerbar size */
-headerbar { min-height: 32px; font-size: 11pt;}
-/* remove titlebar icon */
-.csd .titlebar>image {-gtk-icon-transform: scale(0); }
+/* default headerbar size 
+headerbar { min-height: 32px; font-size: 11pt;}*/
+/* remove titlebar icon 
+.csd .titlebar>image {-gtk-icon-transform: scale(0); }*/
 
 
 /*
