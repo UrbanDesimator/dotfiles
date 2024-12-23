@@ -22,17 +22,6 @@ border-top-right-radius: 13px;
 }
 */
 
-/* 
-.xfce4-panel {
-	border: none;
-}
-/
-
-/* default headerbar size 
-headerbar { min-height: 32px; font-size: 11pt;}*/
-/* remove titlebar icon 
-.csd .titlebar>image {-gtk-icon-transform: scale(0); }*/
-
 
 /*
  Style for buttons within panel
@@ -53,6 +42,7 @@ headerbar { min-height: 32px; font-size: 11pt;}*/
 .xfce4-panel .toggle:hover {
     background-color: transparent;
     color: #66ff00;
+    transition: all 0.3s ease;
 }
 
 .xfce4-panel button:active,
@@ -72,9 +62,9 @@ headerbar { min-height: 32px; font-size: 11pt;}*/
 /*
  Task List bottom indicator
 */
-.xfce4-panel.background .tasklist button {
-    background-color: transparent;
-    color: shade(#fff, 0.8);
+.xfce4-panel.background .tasklist button { 
+color: shade(#fff, 0.8);
+background-color: transparent;
 }
 
 .xfce4-panel.background .tasklist button:active, .xfce4-panel.background .tasklist button:checked {
@@ -85,9 +75,18 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
  * Aplication menu font color
 */
 #applicationmenu-button {
-	/*padding: 0 10px;
-    font-family: 'System-ui';
-    font-size: 14px; */
+	/*padding: 0 10px;*/
+    font-family: Luxi Mono;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: transparent;
+    color: #FFFFFF;
+}
+
+#actions-button {
+	/*padding: 0 10px;*/
+    font-family: Luxi Mono;
+    font-size: 20px; 
     font-weight: bold;
     background-color: transparent;
     color: #66ff00;
@@ -140,7 +139,7 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
 
 }
 #XfceNotifyWindow progressbar {
-	border-radius: 6px;
+	border-radius: 0px;
 }
 #XfceNotifyWindow progressbar progress,
 #XfceNotifyWindow progressbar trough {
@@ -153,18 +152,22 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
 	border-radius: 6px;
 }
 
+/*
+#66ff00
+*/
+
 #clock-button {
     background-color: transparent;
-    color: #66ff00;
+    color: #FFFFFF;
 }
 
 #clock-button:checked {
     background-color: transparent;
-    color: #66ff00;
+    color: #FFFFFF;
 }
 
 #clock-button:hover {
     background-color: transparent;
-    color: #66ff00;
+    color: #FFFFFF;
 }
-
+@import 'colors.css';
