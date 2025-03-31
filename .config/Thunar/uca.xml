@@ -51,7 +51,7 @@
 	<name>留 _Edit file as root (_gedit)</name>
 	<submenu>留 root actions</submenu>
 	<unique-id>1634130076732119-20</unique-id>
-	<command>pkexec  gedit  %f</command>
+	<command>pkexec gedit %f</command>
 	<description>pkexec  gedit  %f</description>
 	<range></range>
 	<patterns>*</patterns>

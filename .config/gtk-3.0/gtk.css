@@ -50,6 +50,7 @@ border-top-right-radius: 13px;
 .xfce4-panel .toggle:active {
     background-color: transparent;
     color: #66ff00;
+    transition: all 0.3s ease;
 }
 
 .xfce4-panel button:checked,
@@ -65,10 +66,12 @@ border-top-right-radius: 13px;
 .xfce4-panel.background .tasklist button { 
 color: shade(#fff, 0.8);
 background-color: transparent;
+transition: all 0.3s ease;
 }
 
 .xfce4-panel.background .tasklist button:active, .xfce4-panel.background .tasklist button:checked {
 color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bottom-width: 3px;
+transition: all 0.3s ease;
 }
 
 /*
@@ -80,7 +83,8 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
     font-size: 20px;
     font-weight: bold;
     background-color: transparent;
-    color: #FFFFFF;
+    color: #66ff00;
+    transition: all 0.3s ease;
 }
 
 #actions-button {
@@ -90,12 +94,15 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
     font-weight: bold;
     background-color: transparent;
     color: #66ff00;
+    transition: all 0.3s ease;
 }
+/*
 
 * {
 	-ThunarAbstractIconView-row-spacing: 10px;
 	-ThunarAbstractIconView-column-spacing: 10px;
 }
+*/
 
   wnck-pager:selected {
     background-color: transparent; }
@@ -105,6 +112,7 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
 .xfce4-panel widget grid button.flat.toggle:hover {
     font-family: 'Sans Bold';
     font-size: 16px;
+    transition: all 0.3s ease;
   }
 .xfce4-panel widget grid button.flat.toggle:checked {
     background-color: transparent;
@@ -112,6 +120,7 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
     font-size: 16px;
     border-bottom: 3px solid #66ff00;
     padding: 10px;
+    transition: all 0.3s ease;
 }
 
 /*
@@ -150,6 +159,7 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
 	background-color: #2a2c37;
 	box-shadow: inset 0px 0px 2px #323340;
 	border-radius: 6px;
+	transition: all 0.3s ease;
 }
 
 /*
@@ -158,16 +168,17 @@ color: #fff; border-bottom-style: solid; border-bottom-color: #66ff00; border-bo
 
 #clock-button {
     background-color: transparent;
-    color: #FFFFFF;
+    color: #66ff00;
 }
 
 #clock-button:checked {
     background-color: transparent;
-    color: #FFFFFF;
+    color: #66ff00;
 }
 
 #clock-button:hover {
     background-color: transparent;
-    color: #FFFFFF;
+    color: #66ff00;
 }
+
 @import 'colors.css';

@@ -1,2 +1,0 @@
-simple 0.5x prescaler for mpv, best combined with "--cscale=bilinear --scaler-resizes-only --window-scale=0.5" 
-

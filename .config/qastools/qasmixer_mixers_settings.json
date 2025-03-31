@@ -4,30 +4,9 @@
             true,
             false
         ],
-        "sliders": {
-            "blacklist": [
-                "IEC958_1_0",
-                "Mic_1_0",
-                "PCM_1_0",
-                "Line_1_0",
-                "Master_1_0",
-                "IEC958_0_0"
-            ]
-        },
         "sort_stream_dir": false,
         "splitter_sizes": [
-            502,
-            59
-        ]
-    },
-    "hw:XFi": {
-        "show_stream": [
-            true,
-            false
-        ],
-        "sort_stream_dir": false,
-        "splitter_sizes": [
-            477,
+            601,
             67
         ]
     }
