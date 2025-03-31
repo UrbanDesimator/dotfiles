@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="25" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.5" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Sun Apr 14 14:48:17 2024
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Sun Apr 14 14:48:17 2024
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="130" last-saved="1713120497" uid="41143438-fa8f-11ee-80f9-ad9eae45f9d6">
+<version id="1" started="1713120497" uid="8e74021c-fa8f-11ee-80f9-ad9eae45f9d6" auto="0" top-xid="25"/>
+</history>
+<styles>
+<s type="P" name="Normal" basedon="" followedby="Current Settings" props="font-family:Nimbus Roman; margin-top:0pt; font-variant:normal; margin-left:0pt; text-indent:0in; widows:2; font-style:normal; font-weight:normal; text-decoration:none; color:000000; line-height:1.0; text-align:left; margin-bottom:0pt; text-position:normal; margin-right:0pt; bgcolor:transparent; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1">
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr">button_offset=2</p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr">button_spacing=4</p>
+<p style="Normal" xid="4"><c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr">show_app_icon=true</p>
+<p style="Normal" xid="6"><c></c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr">full_width_title=true</p>
+<p style="Normal" xid="8"><c></c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">title_shadow_active=false</p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">title_shadow_inactive=false</p>
+<p style="Normal" xid="11"><c></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr">title_horizontal_offset=3</p>
+<p style="Normal" xid="13"><c></c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr">active_text_color=#ffffff</p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr">active_text_shadow_color=#101012</p>
+<p style="Normal" xid="16"><c></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr">inactive_text_color=#dcdcdc</p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr">inactive_text_shadow_color=#101012</p>
+<p style="Normal" xid="19"><c></c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr">shadow_delta_height=2</p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr">shadow_delta_width=0</p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr">shadow_delta_x=0</p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr">shadow_delta_y=-5</p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr">shadow_opacity=40</p>
+<p style="Normal" xid="25"></p>
+</section>
+</abiword>

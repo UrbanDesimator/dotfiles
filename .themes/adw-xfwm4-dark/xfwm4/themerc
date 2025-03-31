@@ -1,0 +1,13 @@
+active_text_color=#ffffff
+inactive_text_color=#949494
+button_offset=10
+button_spacing=14
+full_width_title=true
+frame_border_top=1
+maximized_offset=10
+show_app_icon=false
+shadow_delta_height=10
+shadow_delta_width=4
+shadow_delta_x=4
+shadow_delta_y=0
+shadow_opacity=20

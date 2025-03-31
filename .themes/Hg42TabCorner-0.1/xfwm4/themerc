@@ -1,0 +1,16 @@
+active_text_color=#FFFFFF
+inactive_text_color=#FFFFFF
+active_color_1=#7777BB
+inactive_color_1=#AAAAAA
+button_offset=-34
+#button_vertical_offset=-2
+button_spacing=8
+#button_layout=OCSHM|
+full_width_title=false
+title_horizontal_offset=12
+title_vertical_offset_active=-1
+title_vertical_offset_inactive=-1
+title_alignment=left
+shadow_delta_x=-24
+shadow_delta_y=-32
+show_app_icon=true

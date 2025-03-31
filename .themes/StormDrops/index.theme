@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=StormDrops
+Comment=A dark grey theme, with transparency figuring water drops
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=StormDrops
+GtkTheme=StormDrops
+MetacityTheme=StormDrops
+ButtonLayout=menu:minimize,maximize,close

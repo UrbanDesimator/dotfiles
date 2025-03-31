@@ -1,0 +1,36 @@
+Nano-Blu-Xfce - This my port of Lion1810's Nano-Blu icewm theme
+which can be found in the link below.
+
+------------------------------------------------
+
+Nano-Blu
+
+https://www.box-look.org/p/1018254/#files-panel
+
+-------------------------------------------------
+
+Nano-Blu-Xfce Package Contains.
+
+-------------------------------------------------
+
+* Nano-Blu-Xfce xfwm4 theme.
+* eos.jpg wallpaper.
+* Panel icon.
+* Menu icon.
+* Gotham-minimod conky theme.
+
+-------------------------------------------------
+
+The Gtk DarkIce theme can be found here.
+
+-------------------------------------------------
+
+DarkIce
+
+https://www.gnome-look.org/p/1287544/
+
+-------------------------------------------------
+
+Note: When a window is rolled up, the window does not look like it should.
+This may be a limitation of Xfce. I'm not sure if i will be able to make
+it look like it does on icewm unfortunately.

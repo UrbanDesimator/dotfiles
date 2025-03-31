@@ -1,0 +1,27 @@
+# Based on Clearlooks Metacity from Fedora 14.
+# Ori Theme: Clearlooks XFWM4
+# Author: Casey Kirsle
+# Date: Jan  4 2011
+# http: //www.kirsle.net/
+
+# ------------------------------------------------
+# Clearlooks Border Sky By:
+# Name	  : A. Zia Urrahman
+# Date	  : 16 Oktober 2023
+# Email	  : ngupiware@gmail.com
+# Country : Lombok - Indonesia
+# ------------------------------------------------
+
+show_app_icon=false
+active_text_color=#FFFFFF
+inactive_text_color=#FFFFFF
+active_text_shadow_color=#111111
+title_shadow_active=frame
+title_shadow_inactive=false
+button_layout=O|HMC
+button_offset=0
+button_spacing=0
+full_width_title=true
+maximized_offset=0
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0

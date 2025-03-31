@@ -1,0 +1,22 @@
+# Helix XFWM4 theme by helix.me.uk.
+
+# Active text
+active_text_color=active_text_color_2
+
+# Inactive text
+inactive_text_color=inactive_text_color_2
+
+# Modify button locations
+button_offset=10
+button_spacing=15
+maximized_offset=0
+frame_border_top=2 # Top border crop fullscreen
+
+# Title
+full_width_title=false # Stretch background
+title_horizontal_offset=5
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0
+
+# Icon
+show_app_icon=false
